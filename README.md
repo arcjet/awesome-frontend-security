@@ -1,6 +1,8 @@
 # Awesome Frontend Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) <!-- omit from toc -->
 
-A curated list of resources for learning about application security and securing your frontend applications.
+Frontend application security.
+
+All contributions are welcome, please carefully review the [contributing guidelines](CONTRIBUTING.md) prior to submitting a pull request.
 
 ## Contents <!-- omit from toc -->
 
