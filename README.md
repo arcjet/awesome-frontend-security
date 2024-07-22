@@ -38,12 +38,16 @@ All contributions are welcome, please carefully review the [contributing guideli
 
 ### Code scanning
 
+- [GitHub Code Scanning](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning) - Static analysis, free for open source.
 - [Gitleaks](https://github.com/gitleaks/gitleaks) - Scans git repositories for secrets.
+- [GitGuardian](https://gitguardian.com/) - Secret scanning.
 - [Semgrep](https://semgrep.dev/) - Static analysis tool for finding bugs and enforcing code standards.
+- [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Code quality scanning.
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Searches for secrets and other sensitive information.
 
 ### Supply Chain Security
 
+- [Bytesafe](https://bytesafe.dev/) - Dependency scanning.
 - [Dependabot](https://docs.github.com/en/code-security/dependabot) - Automated dependency updates as PRs.
 - [npm-audit](https://docs.npmjs.com/cli/v10/commands/npm-audit) - Built into npm, run `npm audit` to check for vulnerabilities in your dependencies.
 - [Socket](https://socket.dev/) - Dependency analysis and reporting for security and licensing issues.
@@ -52,6 +56,8 @@ All contributions are welcome, please carefully review the [contributing guideli
 
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/) - Check your CSP headers for common issues.
 - [shcheck](https://github.com/santoru/shcheck) - A CLI for checking website security headers.
+- [OWASP Web App Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - Guide for testing the security of web applications and web services.
+- [Zap](https://www.zaproxy.org/) - App vulnerability scanning.
 
 ## Courses
 
