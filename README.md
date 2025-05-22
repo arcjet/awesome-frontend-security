@@ -51,6 +51,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Dependabot](https://docs.github.com/en/code-security/dependabot) - Automated dependency updates as PRs.
 - [npm-audit](https://docs.npmjs.com/cli/v10/commands/npm-audit) - Built into npm, run `npm audit` to check for vulnerabilities in your dependencies.
 - [Socket](https://socket.dev/) - Dependency analysis and reporting for security and licensing issues.
+- [Vulert](vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 
 ### Testing
 
